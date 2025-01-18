@@ -1,0 +1,42 @@
+_repo: The-Greek-orators_74925
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dobson, J. F. (John Frederic)
+    aliases:
+    - Dobson, John Frederic
+    - Dobson, John F.
+    birthdate: 1875
+    deathdate: 1947
+    gutenberg_agent_id: '57731'
+    url: http://www.gutenberg.org/2009/agents/57731
+description: ''
+gutenberg_issued: '2024-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74925'
+  lccn: '20009130'
+language: en
+pgterms:marc904: https://archive.org/details/greekorators00dobsrich
+pgterms:marc905: 20200827125422dobson
+pgterms:marc906: '1919'
+pgterms:marc907: UK
+production_note: Tim Lindell, Turgut Dincer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bMethuen & co. ltd., $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oratory, Ancient'
+- !lcsh 'Speeches, addresses, etc., Greek -- History and criticism'
+- !lcsh 'Orators -- Greece'
+- !lcc 'PA'
+- GITenberg
+tableOfContents: The beginnings of oratory -- Antiphon -- Thrasymachus; Andocides
+  -- Lysias -- Isaeus -- Isocrates -- Minor rhetoricians -- Aeschines -- Demosthenes
+  -- Phocion, Demades, Pytheas -- Lycurgus, Hyperides, Dinarchus -- The decline of
+  oratory.
+title: The Greek orators
+url: http://www.gutenberg.org/ebooks/74925
